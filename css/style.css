@@ -379,7 +379,8 @@ button {
 
 .read_bt a:hover {
     color: #ffffff;
-    background-color: #f5ddb6;
+    /*background-color: #f5ddb6;*/
+    background-color: #FFC0CB;
 }
 
 
