@@ -483,12 +483,14 @@ button {
 }
 
 .buy_bt li a:hover {
-    background-color: #f5ddb6;
+    background-color: #fb4570;
+    /**background-color: #f3b6f5;**/
     color: #ffffff;
 }
 
 .buy_bt li.active a {
-    background-color: #f5ddb6;
+    background-color: #fb4570;
+    /**background-color: #f5ddb6;**/
     color: #fff;
 }
 
